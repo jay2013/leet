@@ -1,0 +1,20 @@
+#include <iostream>
+#include <stack>
+#include <set>
+#include <vector>
+#include <algorithm>
+#include <queue>
+#include <stack>
+#include <map>
+#include <string>
+
+#include <cassert>
+#include <cstdio>
+#include <cstdlib>
+#include <cstring>
+using namespace std;
+
+int main() {
+    freopen("input.txt", "r", stdin);
+    return 0;
+}
