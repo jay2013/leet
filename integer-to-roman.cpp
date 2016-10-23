@@ -2,7 +2,7 @@
  * title: integer to roman
  * url: https://leetcode.com/problems/integer-to-roman/
  * date: Sun Oct 23 13:32:15 CST 2016
- * description: 将不超过3999的非零整数转化为对应罗马数字。
+ * description: 将不超过3999的非零整数转化为对应罗马数字。!TODO, 扩到数规模
  * general idea: 没有思路，学习别人的代码，了解一下转换规则
  * tags: basic coding 
  *******************************************************************/

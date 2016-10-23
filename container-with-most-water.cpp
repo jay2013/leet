@@ -6,7 +6,7 @@
  * 线和x轴构成的二维容器可以存放最多的水.
  * general idea: 由于没有时间限制的说明，最初我使用暴力枚举的方法O(n^2)
  * 的算法TLE了，后来发现从两头往中间边扫边缩，可是将时间复杂度优化到O(n).
- * tags: special trics.
+ * tags: special tricks.
  *******************************************************************/
 #include <iostream>
 #include <stack>
